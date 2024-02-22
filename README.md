@@ -1,3 +1,5 @@
+This is a simple appliation to fetch users from external api using react redux. Focusing on usage of redux.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
